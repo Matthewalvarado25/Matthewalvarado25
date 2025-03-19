@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Matthewalvarado751@gmail.com
+[linkedin]: (http://www.linkedin.com/in/matthew-alvarado-47b146215)
